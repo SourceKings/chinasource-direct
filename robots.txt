@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sourcekings.github.io/chinasource-direct/sitemap.xml
